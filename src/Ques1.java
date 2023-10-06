@@ -42,5 +42,6 @@ public class Ques1
         }
 
         System.out.print("The sum of array is: "+sum);  //then it will print the value of sum
+        System.out.print("");
     }
 }
