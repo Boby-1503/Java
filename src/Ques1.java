@@ -24,7 +24,8 @@ public class Ques1
     }
     static void printArray(int[] array,int sizeOfArray )  //Making a function which will help to print the elements of array when it will be called.
     {
-        System.out.println("The elements of array are: ");
+        System.out.println("The elements of array are this: ");
+        System.out.println();
 
         for(int i=0;i<sizeOfArray;i++)
         {
