@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Ques4
 {
     public static void main(String[] args)
@@ -7,9 +6,9 @@ public class Ques4
         System.out.println("Enter string: ");
 
         Scanner sc=new Scanner(System.in);
-        String s= sc.nextLine();
+        String s= sc.nextLine();  //taking string input
 
-        int lengthOfString=calculatingLength(s);
+        int lengthOfString=calculatingLength(s); //calling the function calculatingLength and storing the length of string in variable named lengthOfString
 
         System.out.println("The length of string is: "+lengthOfString);
 
