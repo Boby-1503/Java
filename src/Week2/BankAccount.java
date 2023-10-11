@@ -1,3 +1,5 @@
+package Week2;
+
 public class BankAccount
 {
     private double balance;
