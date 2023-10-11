@@ -1,17 +1,8 @@
-//public class Main
-//{
-//    public static void main(String [] args)
-//    {
-//      Dog D1=new Dog();
-//      D1.setName("Charlie");
-//      D1.setBreed("Bulldog");
-//      System.out.println(D1.getName());
-//      System.out.println(D1.getBreed());
-//    }
-//
-//}
+package Week2;
 
-public class Main
+import Week2.BankAccount;
+
+public class BankMain
 {
     public static void main(String[] args)
     {
@@ -23,3 +14,4 @@ public class Main
         System.out.println(account2.getBalance());
     }
 }
+
